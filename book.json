@@ -1,8 +1,23 @@
 {
+    "kind": "Book",
     "title": "Luke's Poems and Thoughts",
     "subtitle": "From somewhere to nowhere",
     "version": "1.0.0",
     "authors": ["Luke in the Shell"],
     "date": "2022",
-    "src": "src"
+    "src": "src",
+    "contents": [
+        "1970-01-01-00.md",
+        "2016-01-xx-01.md",
+        "2020-12-24-01.md",
+        "2022-10-07-01.md",
+        "2022-10-07-02.md",
+        "2022-10-09-01.md",
+        "2022-10-17-01.md",
+        "2022-11-21-01.md",
+        "2023-03-09-01.md",
+        "2023-03-10-01.md",
+        "2023-03-14-01.md",
+        "2023-03-14-02.md"
+    ]
 }
