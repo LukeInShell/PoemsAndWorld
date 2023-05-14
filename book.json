@@ -4,7 +4,7 @@
     "subtitle": "From somewhere to nowhere",
     "version": "1.0.0",
     "authors": ["Luke in the Shell"],
-    "date": "2022",
+    "date": "2023",
     "src": "src",
     "contents": [
         "1970-01-01-00.md",
@@ -25,6 +25,7 @@
         "2023-04-15-01.md",
         "2023-04-17-01.md",
         "2023-05-02-01.md",
-        "2023-05-02-02.md"
+        "2023-05-02-02.md",
+        "2023-05-14-01.md"
     ]
 }
